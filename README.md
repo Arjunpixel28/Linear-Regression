@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/life-expectancy-linear-regression.git
+git clone git@github.com:Arjunpixel28/Linear-Regression.git
 cd life-expectancy-linear-regression
 
 
